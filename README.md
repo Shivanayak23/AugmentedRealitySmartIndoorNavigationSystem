@@ -1,6 +1,6 @@
 # Augmented Reality Smart Indoor Navigation System
 
-An AR-powered mobile application designed to assist users with **real-time, context-aware indoor navigation** across college campuses. This project combines **Unity 3D**, **Bluetooth beacons**, and **Wi-Fi triangulation** to offer precise and interactive indoor wayfinding.
+An AR-powered mobile application designed to assist users with **real-time, context-aware indoor navigation**. This project combines **Unity 3D**, **Bluetooth beacons** and **Wi-Fi triangulation** to offer precise and interactive indoor wayfinding.
 
 ---
 
